@@ -45,3 +45,16 @@ h2{
 #end{
   text-align: right;
 }
+
+h2 {
+  color: darkblue;
+  font-size: 28px;
+  letter-spacing: 2px;
+}
+
+#credits {
+  color: #444;
+  font-style: italic;
+  margin-top: 10px;
+  font-family: 'Courier New', monospace;
+}
